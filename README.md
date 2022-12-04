@@ -25,7 +25,7 @@ public static void main(String[] args) {
                 System.out.println("31");
                 break;
             case 2:
-                System.out.println("feb");
+                System.out.println(feb);
                 break;
             case 3:
                 System.out.println("31");
